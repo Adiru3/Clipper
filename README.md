@@ -1,5 +1,4 @@
-# Clipper
-is an innovative screen recording tool created by Adiru. It is a handy application that allows users to easily capture video and audio from the system and microphone in high quality.
+Clipper is an innovative screen recording tool created by Adiru. It is a handy application that allows users to easily capture video and audio from the system and microphone in high quality.
 
 Main features:
 
