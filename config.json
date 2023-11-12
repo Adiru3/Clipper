@@ -1,0 +1,7 @@
+{
+  "output_folder": "clips",
+  "fps": 30,
+  "clip_duration": 10,
+  "system_audio_device": 0,
+  "microphone_device": 1
+}
