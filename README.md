@@ -2,6 +2,7 @@
 is an innovative screen recording tool created by Adiru. It is a handy application that allows users to easily capture video and audio from the system and microphone in high quality.
 
 Main features:
+
 📹🔊 Screen and Sound Recording:
 Clipper provides the ability to record system sound and microphone audio simultaneously, providing full coverage of your multimedia needs.
 
