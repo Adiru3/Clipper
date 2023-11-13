@@ -23,8 +23,6 @@ Users can pause and continue recording at any time, providing an additional leve
 🤖 GitHub Integration:
 Clipper is designed with accessibility and openness in mind. All documentation and source code is available on GitHub, providing transparency and community involvement in the development of the project.
 
-Clipper is a tool that makes the screen recording process simple and efficient. Create engaging media content with Clipper by Adiru!
-
 Instructions:
 
 Open "my_sounddevice.py" to find out what number your devices have.
