@@ -6,8 +6,8 @@ import sys
 sys.stdout = open("my_sounddevice.txt", "w", encoding="utf-8", errors="ignore")
 
 # Print available audio devices and their indices
-info = sd.query_devices()
 print("Available audio devices:")
+print(sd.query_devices())
 for i, device in enumerate(info):
     try:
         print(f"{i}: {device['name']}")

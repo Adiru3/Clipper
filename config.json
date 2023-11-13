@@ -1,7 +1,24 @@
 {
-  "output_folder": "clips",
-  "fps": 30,
-  "clip_duration": 10,
-  "system_audio_device": 0,
-  "microphone_device": 1
+    "output_folder": "clips",
+    "fps": 60,
+    "clip_duration": 15,
+    "system_audio_device": 14,
+    "microphone_device": 13,
+    "video_settings": {
+        "resolution": [1920, 1080]
+    },
+    "audio_settings": {
+        "chunk": 512,
+        "format": 24,
+        "channels": 2,
+        "rate": 48000,
+        "backend": "wasapi"
+    },
+    "microphone_settings": {
+        "chunk": 512,
+        "format": 16,
+        "channels": 1, 
+        "rate": 48000,
+        "backend": "wasapi"
+    }
 }
